@@ -1,0 +1,13 @@
+body{
+    background-color: lightcyan;
+}
+h1{
+    color:forestgreen;
+    font-size:small;
+}
+.big{
+    font-style: italic;
+}
+h1 span{ 
+    color:fuchsia;
+}
